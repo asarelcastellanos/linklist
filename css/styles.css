@@ -59,7 +59,7 @@ p {
 }
 
 .icons {
-  margin: 3.5px;
+  margin: 1px;
   border-radius: 11px;
   height: 50px;
   width: 50px;
@@ -82,6 +82,10 @@ p {
 
 #twitter:hover {
   background-color: #1da1f2;
+}
+
+#snapchat:hover {
+  background-color: #fffc00;
 }
 
 #youtube:hover {
